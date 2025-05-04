@@ -65,6 +65,32 @@ This work contributes directly to my **Master’s Thesis**:
   - `scikit-learn` (KMeans, PCA, StandardScaler)
 
 
+---
+
+## 🌍 Real-World Relevance
+
+This project demonstrates how unsupervised learning can help:
+- Segment environmental data
+- Detect high-risk zones
+- Support climate resilience efforts
+
+It aligns with the growing need for **AI applications in disaster prevention and environmental protection.**
+
+---
+
+## 🚀 Future Work
+
+- Integrate **Geospatial Mapping (Folium/Plotly)** for visualization on US maps
+- Apply **t-SNE** for nonlinear dimensionality reduction
+- Use the clusters to **enhance supervised wildfire prediction models**
+
+---
+
+## 🙋‍♀️ Author
+
+**Dilrabo Khidirova**  
+
+
 
 
 ![image](https://github.com/user-attachments/assets/a7bbfe67-6f07-4ad7-94f7-629cb3dd9cc3)
